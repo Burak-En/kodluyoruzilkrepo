@@ -7,7 +7,12 @@
 # Patikadev İlk Repo
 PatikaDev Back-End Eğitimi kapsamında oluşturduğum ilk repo.İçinde bir adet README dosyası,bir adet index.html var.
 
-#Installation
+# Installation
+
+Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek.)
+
+'git clone 
+
 
 
 
