@@ -29,7 +29,12 @@ code .
 Pull requestler kabul edilir.Büyük değişikler için.Lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # Lisence 
- https://github.com/BurakEnustekin/kodluyoruzilkrepo/blob/77dcce8e37dba9c7e5ab7c38aefa8f017489ecae/LICENSE
 
+<html>
+<body>
 
+<a href="https://choosealicense.com/licenses/mit/">MIT </a>
+
+</body>
+</html>
 
