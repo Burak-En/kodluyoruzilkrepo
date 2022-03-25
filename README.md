@@ -1,4 +1,11 @@
 # kodluyoruzilkrepo
 Kodluyoruz Back-End Eğitimi kapsamında açtığım ilk repo
-<img src="foto.jpg"/>
+<html>
+<body>
+
+
+<img src="C:\Users\burak.enustekin\Desktop\foto.jpg"/>
+
+</body>
+</html>
 
