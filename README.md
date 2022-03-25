@@ -5,14 +5,31 @@
 
 
 # Patikadev İlk Repo
+
 PatikaDev Back-End Eğitimi kapsamında oluşturduğum ilk repo.İçinde bir adet README dosyası,bir adet index.html var.
 
 # Installation
 
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek.)
 
-'git clone 
 
+```
+git clone https://github.com/BurakEnustekin/kodluyoruzilkrepo.git 
+```
+# Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+
+```
+cd kodluyoruzilkrepo
+code .
+```
+# Contributing 
+Pull requestler kabul edilir.Büyük değişikler için.Lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+# Lisence 
+ https://github.com/BurakEnustekin/kodluyoruzilkrepo/blob/77dcce8e37dba9c7e5ab7c38aefa8f017489ecae/LICENSE
 
 
 
